@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+models/*.joblib
+*.sqlite3
+*.db
+.streamlit/
+venv/
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
